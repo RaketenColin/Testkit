@@ -1,0 +1,2872 @@
+{
+    "Alle_Spiele": {
+        "Buchcover": [
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/01_Tintenherz1.png",
+                    "Antwortbuchpfad": "Spiel2/01_Tintenherz2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/02_Winterkartoffelknoedel1.png",
+                    "Antwortbuchpfad": "Spiel2/02_Winterkartoffelknoedel2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/03_Der Schwarm1.png",
+                    "Antwortbuchpfad": "Spiel2/03_Der Schwarm2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/04_Ringe1.png",
+                    "Antwortbuchpfad": "Spiel2/04_Ringe2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/05_Parfum1.png",
+                    "Antwortbuchpfad": "Spiel2/05_Parfum2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/06_Die Vermessung der Welt1.png",
+                    "Antwortbuchpfad": "Spiel2/06_Die Vermessung der Welt2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/07_Der Erdbeerpfluecker1.png",
+                    "Antwortbuchpfad": "Spiel2/07_Der Erdbeerpfluecker2.webp"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/08_Eragon1.png",
+                    "Antwortbuchpfad": "Spiel2/08_Eragon2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/09_Sofies Welt1.png",
+                    "Antwortbuchpfad": "Spiel2/09_Sofies Welt2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/10_Dune1.png",
+                    "Antwortbuchpfad": "Spiel2/10_Dune2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/11_Harry Potter1.png",
+                    "Antwortbuchpfad": "Spiel2/11_Harry Potter2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/12_Faust1.png",
+                    "Antwortbuchpfad": "Spiel2/12_Faust2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/13_Winnie Puh1.jpg",
+                    "Antwortbuchpfad": "Spiel2/13_Winnie Puh2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/14_Momo1.png",
+                    "Antwortbuchpfad": "Spiel2/14_Momo2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/15_Wo die wilden Kerle Wohnen1.png",
+                    "Antwortbuchpfad": "Spiel2/15_Wo die wilden Kerle Wohnen2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/16_Das Grundgesetz1.png",
+                    "Antwortbuchpfad": "Spiel2/16_Das Grundgesetz2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/17_Das Schicksal ist ein mieser Verraeter1.png",
+                    "Antwortbuchpfad": "Spiel2/17_Das Schicksal ist ein mieser Verraeter2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/18_Krabat1.png",
+                    "Antwortbuchpfad": "Spiel2/18_Krabat2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/19_Biss zum Morgengrauen1.png",
+                    "Antwortbuchpfad": "Spiel2/19_Biss zum Morgengrauen2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/20_Fourth Wing1.png",
+                    "Antwortbuchpfad": "Spiel2/20_Fourth Wing2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/21_Der kleine Prinz1.png",
+                    "Antwortbuchpfad": "Spiel2/21_Der kleine Prinz2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/22_19841.png",
+                    "Antwortbuchpfad": "Spiel2/22_19842.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/23_Wir Kinder vom Bahnhof Zoo1.png",
+                    "Antwortbuchpfad": "Spiel2/23_Wir Kinder vom Bahnhof Zoo2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/24_Das Schweigen der Laemmer1.png",
+                    "Antwortbuchpfad": "Spiel2/24_Das Schweigen der Laemmer2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/25_Das Cafe am Rande der Welt1.png",
+                    "Antwortbuchpfad": "Spiel2/25_Das Cafe am Rande der Welt2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/26_Die Tribute von Panem1.png",
+                    "Antwortbuchpfad": "Spiel2/26_Die Tribute von Panem2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/27_Anne Frank Tagebuch1.png",
+                    "Antwortbuchpfad": "Spiel2/27_Anne Frank Tagebuch2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/28_Die Welle1.png",
+                    "Antwortbuchpfad": "Spiel2/28_Die Welle2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/29_Die Kaenguruchroniken1.png",
+                    "Antwortbuchpfad": "Spiel2/29_Die Kaenguruchroniken2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/30_Schiffbruch mit Tiger1.png",
+                    "Antwortbuchpfad": "Spiel2/30_Schiffbruch mit Tiger2.png"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/31_Der kleine Hobbit1.png",
+                    "Antwortbuchpfad": "Spiel2/31_Der kleine Hobbit2.jpg"
+                }
+            },
+            {
+                "Buchtitel": {
+                    "Fragebuchpfad": "Spiel2/32_Duden1.png",
+                    "Antwortbuchpfad": "Spiel2/32_Duden2.jpg"
+                }
+            }
+        ],
+        "Tiere_schmecken":[
+            {
+                "Tier":"Wolf",
+                "Bildpfad": "Spiel3/01_Wolf.webp",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Zebra",
+                "Bildpfad": "Spiel3/02_Zebra.jpg",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Tiger",
+                "Bildpfad": "Spiel3/03_Tiger.webp",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Biber",
+                "Bildpfad": "Spiel3/04_Biber.jpg",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Elch",
+                "Bildpfad": "Spiel3/05_Elch.jpg",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Fuchs",
+                "Bildpfad": "Spiel3/06_Fuchs.jpg",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Orca",
+                "Bildpfad": "Spiel3/07_Orca.jpg",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            },
+            {
+                "Tier":"Katze",
+                "Bildpfad": "Spiel3/08_Katze.jpg",
+                "Hintergrundpfad": "Spiel3/Hintergrund.avif"
+            }
+        ],
+        "Schaetzen":[
+            {
+                "Frage":{
+                    "Fragestellung": "Dieses Spiel hat (mit dieser Frage) insgesamt 20 Fragen, wie viele Punkte werdet ihr als Team in den anderen 19 Fragen erreichen?",
+                    "Antwortzahl": 0,
+                    "Antworttext": "Auflösung am Ende des Spiels"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Seiten haben alle 7 Harry Potter Bücher zusammen? (Deutsche Ausgaben)",
+                    "Antwortzahl": 4192,
+                    "Antworttext": "4.192"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie lang (in Kilometern) ist die chinesische Mauer",
+                    "Antwortzahl": 21196,
+                    "Antworttext": "21.196"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Haare hat Otterfell pro Quadratzentimeter?",
+                    "Antwortzahl": 70000,
+                    "Antworttext": "70.000"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Der höchste Kirchturm der Welt steht in Ulm, wie hoch (in Metern) ist er?",
+                    "Antwortzahl": 161.5,
+                    "Antworttext": "161.5"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Länder berüht der Äquator?",
+                    "Antwortzahl": 13,
+                    "Antworttext": "13"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Zimmer hat das weiße Haus?",
+                    "Antwortzahl": 132,
+                    "Antworttext": "132"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Kinder werden pro Tag auf der Welt geboren?",
+                    "Antwortzahl": 440000,
+                    "Antworttext": "440.000"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie groß ist die Sahara (in Quadratkilometern)?",
+                    "Antwortzahl": 9200000,
+                    "Antworttext": "9.200.000"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie hoch in Metern ist der höchste Baum der Welt?",
+                    "Antwortzahl": 116,
+                    "Antworttext": "116"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Zähne haben Bären?",
+                    "Antwortzahl": 42,
+                    "Antworttext": "42"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Ameisen gibt es pro Mensch?",
+                    "Antwortzahl": 2500000,
+                    "Antworttext": "2.500.000"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Vor wie vielen Jahren wurde der erste Deine-Mutter-Witz nachgewiesen (ältester verbaler Angriff auf die Mutter eines anderen)",
+                    "Antwortzahl": 3500,
+                    "Antworttext": "3.500"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Wörter gibt es im Schottischen für Schnee?",
+                    "Antwortzahl": 421,
+                    "Antworttext": "421"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele deutsche Städte hatten am 31.12.2024 über 100.000 Einwohner?",
+                    "Antwortzahl": 80,
+                    "Antworttext": "80"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie lang (in Minuten) ist der längste Tag in Deutschland",
+                    "Antwortzahl": 1044,
+                    "Antworttext": "1.044"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viele Musiker hatte das gößte Orchester der Welt? (Aufgestellt 2021)",
+                    "Antwortzahl": 8573,
+                    "Antworttext": "8.573"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie viel Liter Luft muss ein Kondom in der EU fassen können bevor es platzt?",
+                    "Antwortzahl": 18,
+                    "Antworttext": "18"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Vor wie vielen Jahren kam die CD auf den Markt?",
+                    "Antwortzahl": 44,
+                    "Antworttext": "44"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Wie hoch ist der aktuelle Rekord im Dauerjodeln in Stunden?",
+                    "Antwortzahl": 15,
+                    "Antworttext": "15"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Team 1, wie viele Punkte habt ihr in den anderen 19 Fragen erreicht?",
+                    "Antwortzahl": 0,
+                    "Antworttext": "0"
+                }
+            },
+            {
+                "Frage":{
+                    "Fragestellung": "Team 1, wie viele Punkte habt ihr in den anderen 19 Fragen erreicht?",
+                    "Antwortzahl": 0,
+                    "Antworttext": "0"
+                }
+            }
+            
+        ],
+        "Unscharf":[
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/01_Freddy Mercury.mp4",
+                    "Bildpfad": "Spiel5/Freddie Mercury.jpg",
+                    "Name": "Freddie Mercury"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/02_Oprah Winfrey.mp4",
+                    "Bildpfad": "Spiel5/Oprah Winfrey.jpg",
+                    "Name": "Oprah Winfrey"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/03_Evelyn Burdecki.mp4",
+                    "Bildpfad": "Spiel5/Evelyn Burdecki.jpg",
+                    "Name": "Evelyn Burdecki"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/04_Chester Bennington.mp4",
+                    "Bildpfad": "Spiel5/Chester Bennington.jpg",
+                    "Name": "Chester Bennington"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/05_Weeknd.mp4",
+                    "Bildpfad": "Spiel5/The Weeknd.jpg",
+                    "Name": "Weeknd"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/06_Usain Bolt.mp4",
+                    "Bildpfad": "Spiel5/Usain Bolt.jpg",
+                    "Name": "Usain Bolt"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/07_Jeff Bezos.mp4",
+                    "Bildpfad": "Spiel5/Jeff Bezoz.jpg",
+                    "Name": "Jeff Bezos"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/08_Selena Gomez.mp4",
+                    "Bildpfad": "Spiel5/Selena Gomez.jpg",
+                    "Name": "Selena Gomez"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/09_Queen Elisabeth.mp4",
+                    "Bildpfad": "Spiel5/Queen Elisabeth.jpg",
+                    "Name": "Queen Elizabeth"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/10_Jennifer Anniston.mp4",
+                    "Bildpfad": "Spiel5/Jennifer Aniston.jpg",
+                    "Name": "Jennifer Aniston"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/11_Celine Dion.mp4",
+                    "Bildpfad": "Spiel5/Celine Dion.jpg",
+                    "Name": "Celine Dion"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/12_Billie Eilish.mp4",
+                    "Bildpfad": "Spiel5/Billie Eilish.jpg",
+                    "Name": "Billie Eilish"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/13_Sarah Engels.mp4",
+                    "Bildpfad": "Spiel5/Sarah Engels.jpg",
+                    "Name": "Sarah Engels"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/14_Samu Haber.mp4",
+                    "Bildpfad": "Spiel5/Samu Haber.jpg",
+                    "Name": "Samu Haber"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/15_Dirk Nowitzki.mp4",
+                    "Bildpfad": "Spiel5/Dirk Nowitzki.png",
+                    "Name": "Dirk Nowitzki"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/16_Heike Makatsch.mp4",
+                    "Bildpfad": "Spiel5/Heike Makatsch.jpg",
+                    "Name": "Heike Makatsch"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/17_Carmen Geiss.mp4",
+                    "Bildpfad": "Spiel5/Carmen Geiss.jpg",
+                    "Name": "Carmen Geiss"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/18_Frank Thelen.mp4",
+                    "Bildpfad": "Spiel5/Frank Thelen.jpg",
+                    "Name": "Frank Thelen"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/19_Boris Becker.mp4",
+                    "Bildpfad": "Spiel5/Boris Becker.jpg",
+                    "Name": "Boris Becker"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/20_Ralf Schumacher.mp4",
+                    "Bildpfad": "Spiel5/Ralf Schumacher.jpg",
+                    "Name": "Ralf Schumacher"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/21_Gerhard Schroeder.mp4",
+                    "Bildpfad": "Spiel5/Gerhard Schroeder.jpg",
+                    "Name": "Gerhard Schröder"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/22_Jimi Blue Ochsenknecht.mp4",
+                    "Bildpfad": "Spiel5/Jimi Blue Ochsenknecht.jpg",
+                    "Name": "Jimi Blue Ochsenknecht"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/23_Bill Gates.mp4",
+                    "Bildpfad": "Spiel5/Bill Gates.jpg",
+                    "Name": "Bill Gates"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/24_Magnus Carlsen.mp4",
+                    "Bildpfad": "Spiel5/Magnus Carlsen.jpg",
+                    "Name": "Magnus Carlsen"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/25_Boris Pistorius.mp4",
+                    "Bildpfad": "Spiel5/Boris Pistorius.jpg",
+                    "Name": "Boris Pistorius"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/26_Samuel L Jackson.mp4",
+                    "Bildpfad": "Spiel5/Samuel L Jackson.jpg",
+                    "Name": "Samuel L Jackson"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/27_Terry Crews.mp4",
+                    "Bildpfad": "Spiel5/Terry Crews.jpg",
+                    "Name": "Terry Crews"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/28_Serena Williams.mp4",
+                    "Bildpfad": "Spiel5/Serena Williams.jpg",
+                    "Name": "Serena Williams"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/29_Regina Halmich.mp4",
+                    "Bildpfad": "Spiel5/Regina Halmich.jpg",
+                    "Name": "Regina Halmich"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/30_Olaf Schubert.mp4",
+                    "Bildpfad": "Spiel5/Olaf Schubert.jpg",
+                    "Name": "Olaf Schubert"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/31_Desiree Nick.mp4",
+                    "Bildpfad": "Spiel5/Desiree Nick.jpg",
+                    "Name": "Désirée Nick"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/32_Ina Mueller.mp4",
+                    "Bildpfad": "Spiel5/Ina Mueller.jpg",
+                    "Name": "Ina Müller"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/33_Steffi Graf.mp4",
+                    "Bildpfad": "Spiel5/Steffi Graf.jpg",
+                    "Name": "Steffi Graf"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/34_Taylor Swift.mp4",
+                    "Bildpfad": "Spiel5/Taylor Swift.jpg",
+                    "Name": "Taylor Swift"
+                }
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel5/35_Papst Franziskus.mp4",
+                    "Bildpfad": "Spiel5/papst Franziskus.jpg",
+                    "Name": "Papst Franziskus"
+                }
+            }
+        ],
+        "Namen":[
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/01_Emmas.mp4",
+                    "Namen": "Emma"
+                }
+
+            },  
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/02_Jennifers.mp4",
+                    "Namen": "Jennifer"
+                }
+
+            },  
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/03_Donalds.mp4",
+                    "Namen": "Donald"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/04_Jamies.mp4",
+                    "Namen": "Jamie"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/05_Jacks.mp4",
+                    "Namen": "Jack"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/06_Jans.mp4",
+                    "Namen": "Jan"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/07_Claudias.mp4",
+                    "Namen": "Claudia"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/08_Michaels.mp4",
+                    "Namen": "Michael"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/09_Toms.mp4",
+                    "Namen": "Tom"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/10_Matthias.mp4",
+                    "Namen": "Matthias"
+                }
+
+            },
+            {
+                "Person":{
+                    "Videopfad": "Spiel7/11_Kims.mp4",
+                    "Namen": "Kim"
+                }
+
+            }  
+        ],
+        "Songquiz": [
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/01_Radiohead - Creep.mp3",
+                    "Songtitel": "Radiohead - Creep",
+                    "Bildpfad": "Spiel8/Radiohead.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/02_Van Halen - Jump.mp3",
+                    "Songtitel": "Van Halen - Jump",
+                    "Bildpfad": "Spiel8/Van Halen.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/03_Sugababes - About You Now.mp3",
+                    "Songtitel": "Sugababes - About You Now",
+                    "Bildpfad": "Spiel8/Sugababes.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/04_Shawn Mendes - Mercy (Official Music Video).mp3",
+                    "Songtitel": "Shawn Mendez - Mercy",
+                    "Bildpfad": "Spiel8/Shawn Mendez.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/05_Sum 41 - Fat Lip.mp3",
+                    "Songtitel": "Sum 41 - Fat Lip",
+                    "Bildpfad": "Spiel8/Sum41.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/06_Falco - Jeanny.mp3",
+                    "Songtitel": "Falco - Jeanny",
+                    "Bildpfad": "Spiel8/Falco.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/07_Clueso - Chicago.mp3",
+                    "Songtitel": "Clueso - Chicago",
+                    "Bildpfad": "Spiel8/Clueso.png"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/08_Westernhagen - Freiheit.mp3",
+                    "Songtitel": "Westernhagen - Freiheit",
+                    "Bildpfad": "Spiel8/Westernhagen.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/09_Linkin Park - Crawling.mp3",
+                    "Songtitel": "Linkin Park - Crawling",
+                    "Bildpfad": "Spiel8/Linkin Park.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/10_The Weeknd - Blinding Lights (Official Audio).mp3",
+                    "Songtitel": "The Weeknd - Binding Lights",
+                    "Bildpfad": "Spiel8/The Weeknd.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/11_Die Doofen - Mief.mp3",
+                    "Songtitel": "Die Doofen - Mief",
+                    "Bildpfad": "Spiel8/Die Doofen.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/12_Aerosmith - Cryin' (Official Music Video).mp3",
+                    "Songtitel": "Aerosmith - Cryin'",
+                    "Bildpfad": "Spiel8/Aerosmith.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/13_Billy Talent - Devil on my shoulder.mp3",
+                    "Songtitel": "Billy Talent - Devil On My Shoulder",
+                    "Bildpfad": "Spiel8/Billy Talent.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/14_Foo Fighters - Everlong.mp3",
+                    "Songtitel": "Foo Fighters - Everlong",
+                    "Bildpfad": "Spiel8/Foo Fighters.webp"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/15_Harry Styles - Sign of the times.mp3",
+                    "Songtitel": "Harry Styles - Sign Of The Times",
+                    "Bildpfad": "Spiel8/Harry Styles.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/16_Take That - Back For Good.mp3",
+                    "Songtitel": "Take That - Back For Good",
+                    "Bildpfad": "Spiel8/Take That.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/17_One Republic - Stop And Stare.mp3",
+                    "Songtitel": "One Republic - Stop And Stare",
+                    "Bildpfad": "Spiel8/One Republic.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/18_Katy Perry - California Gurls (feat. Snoop Dogg).mp3",
+                    "Songtitel": "Katy Perry - California Gurls",
+                    "Bildpfad": "Spiel8/Katy Perry.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/19_Robbie Williams - Feel.mp3",
+                    "Songtitel": "Robbie Williams - Feel",
+                    "Bildpfad": "Spiel8/Robbie Williams.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/20_Red Hot Chili Peppers - Californication.mp3",
+                    "Songtitel": "Red Hot Chili Peppers - Californication",
+                    "Bildpfad": "Spiel8/Red Hot Chili Peppers.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/21_Bon Jovi - Bed Of Roses.mp3",
+                    "Songtitel": "Bon Jovi - Bed Of Roses",
+                    "Bildpfad": "Spiel8/Bon Jovi.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/22_Imagine Dragons - Thunder.mp3",
+                    "Songtitel": "Imagine Dragons - Thunder",
+                    "Bildpfad": "Spiel8/Imagine Dragons.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/23_Michael Jackson - They Dont Care About Us (Brazil Version)).mp3",
+                    "Songtitel": "Michael Jackson - They Don't Care About Us",
+                    "Bildpfad": "Spiel8/Michael Jackson.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/24_Amy Macdonald - This is the Life.mp3",
+                    "Songtitel": "Amy Macdonald - This is the Life",
+                    "Bildpfad": "Spiel8/Amy MacDonald.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/25_Ich & Ich - Pflaster.mp3",
+                    "Songtitel": "Ich & Ich - Pflaster",
+                    "Bildpfad": "Spiel8/Ich und Ich.png"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/26_Elton John - Rocket Man.mp3",
+                    "Songtitel": "Elton John - Rocket Man",
+                    "Bildpfad": "Spiel8/Elton John.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/27_Duffy - Mercy.mp3",
+                    "Songtitel": "Duffy - Mercy",
+                    "Bildpfad": "Spiel8/Duffy.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/28_ABBA - Dancing Queen.mp3",
+                    "Songtitel": "ABBA - Dancing Queen",
+                    "Bildpfad": "Spiel8/Abba.jpg"
+                }
+            },
+            {
+                "Song":{
+                    "Songpfad": "Spiel8/29_Ed Sheeran - Shape of You [Official Video].mp3",
+                    "Songtitel": "Ed Sheeran - Shape of You",
+                    "Bildpfad": "Spiel8/Ed Sheeran.jpg"
+                }
+            }
+        ],
+        "Stimmts":[
+            {
+                "Frage":{
+                    "Aussage": "Melbourne ist die Hauptstadt Australiens",
+                    "Antwort": false,
+                    "Antworttext": "Die Hauptstadt Australiens ist Canberra"
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Tomaten sind Obst",
+                    "Antwort": true,
+                    "Antworttext": "Tomaten sind Obst, da sie aus einer befruchteten Blüte entstehen"
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Brokkoli enthält mehr Vitamin C als Zitrone",
+                    "Antwort": true,
+                    "Antworttext": "Brokkoli enthält tatsächlich mehr Vitamin C als Zitronen, mit etwa 89 mg pro 100 g im Vergleich zu 53 mg pro 100 g in Zitronen."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Giraffen machen Muh, oder Muh-ähnliche Geräusche",
+                    "Antwort": true,
+                    "Antworttext": "Giraffen machen tatsächlich ein Geräusch, das als 'Muh' beschrieben werden kann, obwohl es selten gehört wird, da Giraffen normalerweise sehr leise Tiere sind."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Der Oberschenkelknochen (Femur) ist der härteste Knochen im menschlichen Körper",
+                    "Antwort": false,
+                    "Antworttext": "Der härteste Knochen im menschlichen Körper ist das Felsenbein"
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Google hieß ursprünglich BackRub",
+                    "Antwort": true,
+                    "Antworttext": "Google hieß tatsächlich ursprünglich BackRub, bevor es 1997 in Google umbenannt wurde."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Kleopatra war ägyptischer Abstammung",
+                    "Antwort": false,
+                    "Antworttext": "Kleopatra stammte aus der makedonisch-griechischen Dynastie und war damit nicht ägyptischer Abstammung."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Schnecken können jahrelang schlafen",
+                    "Antwort": true,
+                    "Antworttext": "Schnecken können unter ungünstigen Bedingungen (Trockenheit, Kälte) bis zu drei Jahre lang schlafen."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Coca Cola werden in jedem Land der Welt verkauft",
+                    "Antwort": false,
+                    "Antworttext": "Coca Cola gibt es nicht in Nordkorea oder Kuba."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Der Mensch hat 85 Prozent seiner DNA mit Bananen gemeinsam",
+                    "Antwort": false,
+                    "Antworttext": "Der Mensch teilt etwa 60 Prozent seiner DNA mit Bananen."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Spinnenseide wurde früher zur Herstellung von Geigensaiten verwendet",
+                    "Antwort": true,
+                    "Antworttext": "Spinnenseide wurde tatsächlich früher zur Herstellung von Geigensaiten verwendet, da sie sehr elastisch und stark ist."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "In Ohio, ist es illegal, einen Fisch betrunken zu machen",
+                    "Antwort": true,
+                    "Antworttext": "In Ohio ist es tatsächlich illegal, einen Fisch betrunken zu machen, da dies als Tierquälerei angesehen wird."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Die Chinesische Mauer ist vom Mond aus mit bloßem Auge sichtbar",
+                    "Antwort": false,
+                    "Antworttext": "Die Chinesische Mauer ist vom Mond aus nicht mit bloßem Auge sichtbar, das ist ein weit verbreiteter Mythos."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Krokodile schlucken Steine um tiefer tauchen zu können",
+                    "Antwort": true,
+                    "Antworttext": "Krokodile schlucken tatsächlich Steine, um ihr Gewicht zu erhöhen und tiefer tauchen zu können."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Raupen haben mehr verschiedene Muskeln als Menschen",
+                    "Antwort": true,
+                    "Antworttext": "Raupen haben tatsächlich mehr verschiedene Muskeln als Menschen, mit etwa 4.000 Muskeln im Vergleich zu etwa 650 Muskeln beim Menschen."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Das hawaiianische Alphabet hat 12 Buchstaben",
+                    "Antwort": true,
+                    "Antworttext": "Das hawaiianische Alphabet besteht tatsächlich aus 12 Buchstaben: A, E, I, O, U, H, K, L, M, N, P und W."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Der Weltrekord für die meisten gegessenen Hotdogs in 10 Minuten sind 62",
+                    "Antwort": false,
+                    "Antworttext": "Der Weltrekord für die meisten gegessenen Hotdogs in 10 Minuten liegt bei 83, aufgestellt von Joey Chestnut im Jahr 2024."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Hamburg hat mehr Brücken als Venedig und Amsterdam zusammen",
+                    "Antwort": true,
+                    "Antworttext": "Hamburg hat tatsächlich mehr Brücken als Venedig und Amsterdam zusammen, mit 2.500 Brücken im Vergleich zu etwa 400 in Venedig und 1.281 in Amsterdam."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Die Donau fließt durch 10 Länder",
+                    "Antwort": true,
+                    "Antworttext": "Die Donau fließt tatsächlich durch 10 Länder: Deutschland, Österreich, Slowakei, Ungarn, Kroatien, Serbien, Bulgarien, Rumänien, Moldawien und die Ukraine."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Wenn man Regenwürmer halbiert werden aus ihm 2 Regenwürmer",
+                    "Antwort": false,
+                    "Antworttext": "Wenn ein Regenwurm halbiert wird, überlebt nur der vordere Teil des Wurms. Der Hintere Teil kann keine neue Mundöffnung bilden."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Fledermäuse sind blind",
+                    "Antwort": false,
+                    "Antworttext": "Fledermäuse sind nicht blind, sie sehen aber sehr schlecht."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Luft besteht zu rund 21% aus Sauerstoff",
+                    "Antwort": true,
+                    "Antworttext": "Luft besteht tatsächlich zu etwa 21% aus Sauerstoff."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Ziegen haben rechteckige Pupillen",
+                    "Antwort": true,
+                    "Antworttext": "Ziegen haben tatsächlich rechteckige Pupillen, was ihnen ein breiteres Sichtfeld ermöglicht."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Montreal hat einen offiziellen relocation-day an dem fast alle Umzüge stattfinden",
+                    "Antwort": true,
+                    "Antworttext": "Montreal hat tatsächlich einen offiziellen relocation-day, der am 1. Juli stattfindet, an dem viele Menschen umziehen."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "In Paris müssen jährlich rund 100 Personen ins Krankenhaus weil sie auf Hundescheiße ausgerutscht sind",
+                    "Antwort": false,
+                    "Antworttext": "In Paris müssen jährlich rund 650 Personen ins Krankenhaus weil sie auf Hundescheiße ausgerutscht sind."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "60 % der Stotternden Menschen sind Männer",
+                    "Antwort": false,
+                    "Antworttext": "Etwa 75-80% der stotternden Menschen sind Männer."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Der 14. März ist der Zahl Pi gewidmet",
+                    "Antwort": true,
+                    "Antworttext": "Der 14. März (3/14) ist tatsächlich der Zahl Pi gewidmet, da die ersten drei Ziffern von Pi 3,14 sind."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Actimel und Coca Cola enthalten ca. gleich viel Zucker pro 100 ml",
+                    "Antwort": true,
+                    "Antworttext": "Actimel enthält tatsächlich ca. 10,8 g Zucker pro 100 ml, Coca Cola ca. 10,6 g Zucker pro 100 ml."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Pythons schlafen unter 3 Stunden täglich",
+                    "Antwort": false,
+                    "Antworttext": "Pythons schlafen tatsächlich bis zu 18 Stunden täglich."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Mit Jockey laufen Pferde schneller als ohne",
+                    "Antwort": true,
+                    "Antworttext": "Pferde laufen tatsächlich schneller mit einem Jockey."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Der Menschenfloh ist vom Aussterben bedroht",
+                    "Antwort": true,
+                    "Antworttext": "Der Menschenfloh ist tatsächlich vom Aussterben bedroht, da er auf den Menschen als Wirt angewiesen ist und die Hygiene verbessert wurde."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Die Oberfläche aller Lungenbläschen einer Person ist ungefähr so groß wie ein Fußballfeld",
+                    "Antwort": false,
+                    "Antworttext": "Die Oberfläche aller Lungenbläschen einer Person ist ungefähr so groß wie ein Tennisplatz (ca 700 m²)."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Größte und kleinste Zellen beim Menschen sind Eizelle und Samenzelle",
+                    "Antwort": true,
+                    "Antworttext": "Die größte Zelle im menschlichen Körper ist tatsächlich die Eizelle, während die kleinste Zelle die Samenzelle ist."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Jede Woche steigt das Durchschnittsalter von Menschen in Europa um fast exakt einen Tag",
+                    "Antwort": false,
+                    "Antworttext": "Jede Woche steigt das Durchschnittsalter von Menschen in Europa um etwa 1,4 Tage."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Ein ausgewachsener Elefant hinterlässt täglich ca 50 kg Kot",
+                    "Antwort": false,
+                    "Antworttext": "Ein ausgewachsener Elefant hinterlässt tatsächlich täglich ca. 120-180 kg Kot."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Pflanzen können Fieber bekommen",
+                    "Antwort": true,
+                    "Antworttext": "Pflanzen können tatsächlich eine Art 'Fieber' bekommen, wenn sie von Krankheitserregern befallen sind."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Der US-Präsident hat eine eigene Postleitzahl",
+                    "Antwort": true,
+                    "Antworttext": "Der US-Präsident hat tatsächlich eine eigene Postleitzahl, die 20500."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Das Herzinfarktrisiko erhöht sich beim schauen von Fußball auf bis zu das 1,5-fache",
+                    "Antwort": false,
+                    "Antworttext": "Das Herzinfarktrisiko erhöht sich beim schauen von Fußball um bis zu das 3-fache (Fußball-WM 2006)."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Menschen mit braunen Augen sind schneller bekifft als Menschen mit anderen Augenfarben",
+                    "Antwort": false,
+                    "Antworttext": "Es gibt keine wissenschaftlichen Beweise dafür, dass Menschen mit braunen Augen schneller bekifft sind als Menschen mit anderen Augenfarben."
+                }
+            },
+            {
+                "Frage":{
+                    "Aussage": "Arabische Zahlen sammen ursprünglich aus dem Irak",
+                    "Antwort": false,
+                    "Antworttext": "Arabische Zahlen stammen tatsächlich aus Indien und wurden später von arabischen Mathematikern weiterentwickelt und verbreitet."
+                }
+            }
+
+        ],
+        "Fernsehmelodien": [
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/01_Frauentausch.mp3",
+                    "VideoPfad": "Spiel11/01_Frauentausch.mp4",
+                    "Serienname": "Frauentausch"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/02_A-Team.mp3",
+                    "VideoPfad": "Spiel11/02_A-Team.mp4",
+                    "Serienname": "A-Team"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/03_One Piece.mp3",
+                    "VideoPfad": "Spiel11/03_One Piece.mp4",
+                    "Serienname": "One Piece"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/04_How I met your Mother.mp3",
+                    "VideoPfad": "Spiel11/04_How I met your Mother.mp4",
+                    "Serienname": "How I Met Your Mother"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/05_Eine schrecklich nette Familie.mp3",
+                    "VideoPfad": "Spiel11/05_Eine schrecklich nette Familie.mp4",
+                    "Serienname": "Eine Schrecklich Nette Familie"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/06_Miami Vice.mp3",
+                    "VideoPfad": "Spiel11/06_Miami Vice.mp4",
+                    "Serienname": "Miami Vice"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/07_Die Pfefferkoerner.mp3",
+                    "VideoPfad": "Spiel11/07_Die Pfefferkoerner.mp4",
+                    "Serienname": "Die Pfefferkörner"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/08_The Golden Girls.mp3",
+                    "VideoPfad": "Spiel11/08_The Golden Girls.mp4",
+                    "Serienname": "The Golden Girls"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/09_Die Wilden Siebziger.mp3",
+                    "VideoPfad": "Spiel11/09_Die Wilden Siebziger.mp4",
+                    "Serienname": "Die Wilden Siebziger"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/10_ALF.mp3",
+                    "VideoPfad": "Spiel11/10_ALF.mp4",
+                    "Serienname": "Alf"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/11_Breaking Bad.mp3",
+                    "VideoPfad": "Spiel11/11_Breaking Bad.mp4",
+                    "Serienname": "Breaking Bad"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/12_DSDS.mp3",
+                    "VideoPfad": "Spiel11/12_DSDS.mp4",
+                    "Serienname": "DSDS"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/13_SEX AND THE CITY.mp3",
+                    "VideoPfad": "Spiel11/13_SEX AND THE CITY.mp4",
+                    "Serienname": "Sex And The City"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/14_The Nanny.mp3",
+                    "VideoPfad": "Spiel11/14_The Nanny.mp4",
+                    "Serienname": "Die Nanny"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/15_Rick and Morty.mp3",
+                    "VideoPfad": "Spiel11/15_Rick and Morty.mp4",
+                    "Serienname": "Rick and Morty"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/16_The Fresh Prince Of Bel Air.mp3",
+                    "VideoPfad": "Spiel11/16_The Fresh Prince Of Bel Air.mp4",
+                    "Serienname": "Der Prinz von Bel Air"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/17_Emergency Room.mp3",
+                    "VideoPfad": "Spiel11/17_Emergency Room.mp4",
+                    "Serienname": "Emergency Room"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/18_Magnum.mp3",
+                    "VideoPfad": "Spiel11/18_Magnum.mp4",
+                    "Serienname": "Magnum"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/19_Baywatch.mp3",
+                    "VideoPfad": "Spiel11/19_Baywatch.mp4",
+                    "Serienname": "Baywatch"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/20_Scrubs.mp3",
+                    "VideoPfad": "Spiel11/20_Scrubs.mp4",
+                    "Serienname": "Scrubs"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/21_NCIS.mp3",
+                    "VideoPfad": "Spiel11/21_NCIS.mp4",
+                    "Serienname": "Navy CIS"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/22_Better Call Saul.mp3",
+                    "VideoPfad": "Spiel11/22_Better Call Saul.mp4",
+                    "Serienname": "Better Call Saul"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/23_7 vs wild.mp3",
+                    "VideoPfad": "Spiel11/23_7 vs wild.mp4",
+                    "Serienname": "7 vs Wild"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/24_Bauer sucht Frau.mp3",
+                    "VideoPfad": "Spiel11/24_Bauer sucht Frau.mp4",
+                    "Serienname": "Bauer sucht Frau"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/25_Futurama.mp3",
+                    "VideoPfad": "Spiel11/25_Futurama.mp4",
+                    "Serienname": "Futurama"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/26_Family Guy.mp3",
+                    "VideoPfad": "Spiel11/26_Family Guy.mp4",
+                    "Serienname": "Family Guy"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/27_FRIENDS.mp3",
+                    "VideoPfad": "Spiel11/27_FRIENDS.mp4",
+                    "Serienname": "Friends"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/28_Die Dinos.mp3",
+                    "VideoPfad": "Spiel11/28_Die Dinos.mp4",
+                    "Serienname": "Die Dinos"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/29_The Walking Dead.mp3",
+                    "VideoPfad": "Spiel11/29_The Walking Dead.mp4",
+                    "Serienname": "The Walking Dead"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/30_Wetten, dass...mp3",
+                    "VideoPfad": "Spiel11/30_Wetten, dass...mp4",
+                    "Serienname": "Wetten, dass..?"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/31_King of Queens.mp3",
+                    "VideoPfad": "Spiel11/31_King of Queens.mp4",
+                    "Serienname": "King of Queens"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/32_Arcane.mp3",
+                    "VideoPfad": "Spiel11/32_Arcane.mp4",
+                    "Serienname": "Arcane"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/33_House of Cards.mp3",
+                    "VideoPfad": "Spiel11/33_House of Cards.mp4",
+                    "Serienname": "House of Cards"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/34_Dschungelcamp.mp3",
+                    "VideoPfad": "Spiel11/34_Dschungelcamp.mp4",
+                    "Serienname": "Dschungelcamp"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/35_Wer Wird Millionaer.mp3",
+                    "VideoPfad": "Spiel11/35_Wer Wird Millionaer.mp4",
+                    "Serienname": "Wer wird Millionär"
+                }
+            },
+            {
+                "Fernsehserie":{
+                    "Audiopfad": "Spiel11/36_Game of Thrones.mp3",
+                    "VideoPfad": "Spiel11/36_Game of Thrones.mp4",
+                    "Serienname": "Game of Thrones"
+                }
+            }
+        ],
+        "Stimmen_erkennen":[
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/01_Dieter Bohlen.mp3",
+                    "Videopfad": "Spiel13/01_Dieter Bohlen.mp4",
+                    "Name": "Dieter Bohlen"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/02_Til Schweiger.mp3",
+                    "Videopfad": "Spiel13/02_Til Schweiger.mp4",
+                    "Name": "Til Schweiger"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/03_Papaplatte.mp3",
+                    "Videopfad": "Spiel13/03_Papaplatte.mp4",
+                    "Name": "Papaplatte"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/04_Juergen Vogel.mp3",
+                    "Videopfad": "Spiel13/04_Juergen Vogel.mp4",
+                    "Name": "Jürgen Vogel"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/05_Matthias Schweighoefer.mp3",
+                    "Videopfad": "Spiel13/05_Matthias Schweighoefer.mp4",
+                    "Name": "Matthias Schweighöfer"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/06_Michael Bully Herbig.mp3",
+                    "Videopfad": "Spiel13/06_Michael Bully Herbig.mp4",
+                    "Name": "Michael Bully Herbig"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/07_BastiGHG.mp3",
+                    "Videopfad": "Spiel13/07_BastiGHG.mp4",
+                    "Name": "BastiGHG"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/08_Friedrich Merz.mp3",
+                    "Videopfad": "Spiel13/08_Friedrich Merz.mp4",
+                    "Name": "Friedrich Merz"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/09_Caroline Herfurth.mp3",
+                    "Videopfad": "Spiel13/09_Caroline Herfurth.mp4",
+                    "Name": "Caroline Herfurth"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/10_Angela Merkel.mp3",
+                    "Videopfad": "Spiel13/10_Angela Merkel.mp4",
+                    "Name": "Angela Merkel"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/11_Gronkh.mp3",
+                    "Videopfad": "Spiel13/11_Gronkh.mp4",
+                    "Name": "Gronkh"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/12_Katja Burkhard.mp3",
+                    "Videopfad": "Spiel13/12_Katja Burkhard.mp4",
+                    "Name": "Katja Burkhard"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/13_Josefine Preuss.mp3",
+                    "Videopfad": "Spiel13/13_Josefine Preuss.mp4",
+                    "Name": "Josefine Preuß"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/14_Mai Thi Nguyen.mp3",
+                    "Videopfad": "Spiel13/14_Mai Thi Nguyen.mp4",
+                    "Name": "Mai Thi Nguyen"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/15_Mark Forster.mp3",
+                    "Videopfad": "Spiel13/15_Mark Forster.mp4",
+                    "Name": "Mark Forster"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/16_Ralph Caspers.mp3",
+                    "Videopfad": "Spiel13/16_Ralph Caspers.mp4",
+                    "Name": "Ralph Caspers"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/17_Matthias Opdenhoevel.mp3",
+                    "Videopfad": "Spiel13/17_Matthias Opdenhoevel.mp4",
+                    "Name": "Matthias Opdenhövel"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/18_Thorsten Straeter.mp3",
+                    "Videopfad": "Spiel13/18_Thorsten Straeter.mp4",
+                    "Name": "Thorsten Sträter"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/19_Markus Lanz.mp3",
+                    "Videopfad": "Spiel13/19_Markus Lanz.mp4",
+                    "Name": "Markus Lanz"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/20_Anke Engelke.mp3",
+                    "Videopfad": "Spiel13/20_Anke Engelke.mp4",
+                    "Name": "Anke Engelke"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/21_Elyas M'Barek.mp3",
+                    "Videopfad": "Spiel13/21_Elyas M'Barek.mp4",
+                    "Name": "Elyas M'Barek"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/22_Sarah Connor.mp3",
+                    "Videopfad": "Spiel13/22_Sarah Connor.mp4",
+                    "Name": "Sarah Connor"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/23_Jan Delay.mp3",
+                    "Videopfad": "Spiel13/23_Jan Delay.mp4",
+                    "Name": "Jan Delay"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/24_Peter Maffay.mp3",
+                    "Videopfad": "Spiel13/24_Peter Maffay.mp4",
+                    "Name": "Peter Maffay"
+                }
+            },
+            {
+                "Person":{
+                    "Audiopfad": "Spiel13/25_Susanne Daubner.mp3",
+                    "Videopfad": "Spiel13/25_Susanne Daubner.mp4",
+                    "Name": "Susanne Daubner"
+                }
+            }
+        ],
+        "Wer_weiss_mehr":[
+            {
+                "Sammlung":{
+                    "Kategorie": "Lieder die den ESC gewannen",
+                    "Antworten":[
+                        {
+                            "Titel": "Lys Assia - Refrain"
+                        },
+                         {
+                            "Titel": "Corry Broken - Net als toen"
+                        },
+                         {
+                            "Titel": "André Claveau - Dors mon amour"
+                        },
+                         {
+                            "Titel": "Teddy Scholten - Een beetje"
+                        },
+                         {
+                            "Titel": "Jaqueline Boyer - Tom Pillibi"
+                        },
+                         {
+                            "Titel": "Jean-Claude Pascal - Nous les amoureux"
+                        },
+                         {
+                            "Titel": "Isabelle Aubret - Un premier amour"
+                        },
+                         {
+                            "Titel": "Dansevise - Grethe & Jørgen Ingmann"
+                        },
+                         {
+                            "Titel": "No ho l'età - Gigliola Cinquetti"
+                        },
+                         {
+                            "Titel": "France Gall - Poupée de cire, poupée de son"
+                        },
+                         {
+                            "Titel": "Udo Jürgens - Merci Chérie"
+                        },
+                         {
+                            "Titel": "Sandie Shaw - Puppet on a string"
+                        },
+                         {
+                            "Titel": "Massiel - La, la, la"
+                        },
+                         {
+                            "Titel": "Salomé - Vivo cantando"
+                        },
+                         {
+                            "Titel": "Frida Boccara - Un jour, un enfant"
+                        },
+                         {
+                            "Titel": "Lenny Kuhr - De troubadour"
+                        },
+                         {
+                            "Titel": "Lulu - Boom Bang-a-Bang"
+                        },
+                         {
+                            "Titel": "Dana - All kinds of everything"
+                        },
+                         {
+                            "Titel": "Séverine - Un banc, un arbre, une rue"
+                        },
+                         {
+                            "Titel": "Vicky Leandros - Après Toi"
+                        },
+                         {
+                            "Titel": "Anne-Marie David - Tu te reconnaîtras"
+                        },
+                         {
+                            "Titel": "Abba - Waterloo"
+                        },
+                         {
+                            "Titel": "Teach-In - Ding-a-Dong"
+                        },
+                         {
+                            "Titel": "Brotherhood of Men - Save your kisses for me"
+                        },
+                         {
+                            "Titel": "Marie Myriam - L'oiseau et l'enfant"
+                        },
+                         {
+                            "Titel": "Yizhar Cohen & he Alpha-Beta - A-ba-ni-bi"
+                        },
+                         {
+                            "Titel": "Gali Atari & Milk and Honey - Hallelujah"
+                        },
+                         {
+                            "Titel": "Johnny Logan - What's another year"
+                        },
+                         {
+                            "Titel": "Bucks Fizz - Making your mind up"
+                        },
+                         {
+                            "Titel": "Nicole - Ein bisschen Frieden"
+                        },
+                         {
+                            "Titel": "Corinne Hermès - Si la vie est cadeau"
+                        },
+                         {
+                            "Titel": "Herreys - Diggi-loo Diggy-ley"
+                        },
+                         {
+                            "Titel": "Bobbysocks - La det swinge"
+                        },
+                         {
+                            "Titel": "Sandra Kim - J'aime la vie"
+                        },
+                         {
+                            "Titel": "Johnny Logan - Hold me now"
+                        },
+                         {
+                            "Titel": "Céline Dion - Ne partez pas sans moi"
+                        },
+                         {
+                            "Titel": "Riva - Rock me"
+                        },
+                         {
+                            "Titel": "Toto Cutugno - Insieme: 1992"
+                        },
+                         {
+                            "Titel": "Carola - Fångad av en stormvind"
+                        },
+                         {
+                            "Titel": "Linda Marin - Why me"
+                        },
+                         {
+                            "Titel": "Niamh Kavanagh - In your eyes"
+                        },
+                         {
+                            "Titel": "Paul Harrington & Charlie McGettigan - Rock n roll kids"
+                        },
+                         {
+                            "Titel": "Secret Garden - Nocturne"
+                        },
+                         {
+                            "Titel": "Eimear Quinn - The voice"
+                        },
+                         {
+                            "Titel": "Katarina and the waves - Love shine a light"
+                        },
+                         {
+                            "Titel": "Dana International - Diva"
+                        },
+                         {
+                            "Titel": "Charlotte Nilsson - Take me to your heaven"
+                        },
+                         {
+                            "Titel": "Olsen Brothers - Fly on the wings of love"
+                        },
+                         {
+                            "Titel": "Tanel Padar, Dave Benton & 2XL - Everybody"
+                        },
+                         {
+                            "Titel": "Marie N - I Wanna"
+                        },
+                         {
+                            "Titel": "Sertab Erener - Everyway that I can"
+                        },
+                         {
+                            "Titel": "Ruslana - Wild Dances"
+                        },
+                         {
+                            "Titel": "Elena Paparizou - My number one"
+                        },
+                         {
+                            "Titel": "Lordi - Hard Rock Hallelujah"
+                        },
+                         {
+                            "Titel": "Marija Šerifović - Moltiva"
+                        },
+                         {
+                            "Titel": "Dima Bilan - Believe"
+                        },
+                         {
+                            "Titel": "Alexander Rybak - Fairytale"
+                        },
+                         {
+                            "Titel": "Lena - Satellite"
+                        },
+                         {
+                            "Titel": "Loreen - Euphoria"
+                        },
+                         {
+                            "Titel": "Emmelie de Forest - Only Teardrops"
+                        },
+                         {
+                            "Titel": "Conchita Wurst - Rise like a Phoenix"
+                        },
+                         {
+                            "Titel": "Måns Zemerlöw - Heroes"
+                        },
+                         {
+                            "Titel": "Lys Assia - Refrain"
+                        },
+                         {
+                            "Titel": "Jamala - 1944"
+                        },
+                         {
+                            "Titel": "Salvador Sobral - Amar pelos dois"
+                        },
+                         {
+                            "Titel": "Netta - Toy"
+                        },
+                         {
+                            "Titel": "Duncan Laurence - Arcade"
+                        },
+                         {
+                            "Titel": "Måneskin - Zitti e buoni"
+                        },
+                         {
+                            "Titel": "Kalush Orchestra - Stefania"
+                        },
+                         {
+                            "Titel": "Loreen - Tattoo"
+                        },
+                         {
+                            "Titel": "Nemo- The Code"
+                        },
+                         {
+                            "Titel": "JJ - Wasted love"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie": "Landeshauptstädte die mit A beginnen",
+                    "Antworten":[
+                        {
+                            "Landeshauptstadt": "Algier"
+                        },
+                        {
+                            "Landeshauptstadt": "Addis Abeba"
+                        },
+                        {
+                            "Landeshauptstadt": "Asmara"
+                        },
+                        {
+                            "Landeshauptstadt": "Accra"
+                        },
+                        {
+                            "Landeshauptstadt": "Antananarivo"
+                        },
+                        {
+                            "Landeshauptstadt": "Abuja"
+                        },
+                        {
+                            "Landeshauptstadt": "Ammam"
+                        },
+                        {
+                            "Landeshauptstadt": "Ankara"
+                        },
+                        {
+                            "Landeshauptstadt": "Aschgabad"
+                        },
+                        {
+                            "Landeshauptstadt": "Abu Dhabi"
+                        },
+                        {
+                            "Landeshauptstadt": "Apia"
+                        },
+                        {
+                            "Landeshauptstadt": "Andorra la Vella"
+                        },
+                        {
+                            "Landeshauptstadt": "Athen"
+                        },
+                        {
+                            "Landeshauptstadt": "Amsterdam"
+                        },
+                        {
+                            "Landeshauptstadt": "Asuncion"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Dschungelcamp Gewinner",
+                    "Antworten":[
+                        {
+                            "Gewinner": "Costa Cordalis"
+                        },
+                        {
+                            "Gewinner": "Désirée Nick"
+                        },
+                        {
+                            "Gewinner": "Ross Anthony"
+                        },
+                        {
+                            "Gewinner": "Ingrid van Bergen"
+                        },
+                        {
+                            "Gewinner": "Peer Kusmagk"
+                        },
+                        {
+                            "Gewinner": "Brigitte Nielsen"
+                        },
+                        {
+                            "Gewinner": "Joey Heindle"
+                        },
+                        {
+                            "Gewinner": "Melanie Müller"
+                        },
+                        {
+                            "Gewinner": "Maren Glizer"
+                        },
+                        {
+                            "Gewinner": "Menderes Bağci"
+                        },
+                        {
+                            "Gewinner": "Marc Terenzi"
+                        },
+                        {
+                            "Gewinner": "Jenny Frankhauser"
+                        },
+                        {
+                            "Gewinner": "Evelyn Burdecki"
+                        },
+                        {
+                            "Gewinner": "Prince Damien"
+                        },
+                        {
+                            "Gewinner": "Filip Pavlovic"
+                        },
+                        {
+                            "Gewinner": "Djamila Rowe"
+                        },
+                        {
+                            "Gewinner": "Lucy Diakovska"
+                        },
+                        {
+                            "Gewinner": "Lilly Becker"
+                        },
+                        {
+                            "Gewinner": "Gil Ofarim"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Städte über 10 Millionen Einwohner (Achtung: administrative Stadtgrenze, also ohne Vororte. Tipp: damit entfallen Tokio und Mexiko-Stadt)",
+                    "Antworten":[
+                        {
+                            "Stadt": "Shanghai"
+                        },
+                        {
+                            "Stadt": "Delhi"
+                        },
+                        {
+                            "Stadt": "Karatschi"
+                        },
+                        {
+                            "Stadt": "Peking"
+                        },
+                        {
+                            "Stadt": "Shenzhen"
+                        },
+                        {
+                            "Stadt": "Kinshasa"
+                        },
+                        {
+                            "Stadt": "Guangzhou"
+                        },
+                        {
+                            "Stadt": "Lagos"
+                        },
+                        {
+                            "Stadt": "Istanbul"
+                        },
+                        {
+                            "Stadt": "Bengaluru"
+                        },
+                        {
+                            "Stadt": "Chengdu"
+                        },
+                        {
+                            "Stadt": "Mumbai"
+                        },
+                        {
+                            "Stadt": "Moskau"
+                        },
+                        {
+                            "Stadt": "Lahore"
+                        },
+                        {
+                            "Stadt": "São Paulo"
+                        },
+                        {
+                            "Stadt": "Tianjin"
+                        },
+                        {
+                            "Stadt": "Jakarta"
+                        },
+                        {
+                            "Stadt": "Wuhan"
+                        },
+                        {
+                            "Stadt": "Dhaka"
+                        },
+                        {
+                            "Stadt": "Hyderabad"
+                        },
+                        {
+                            "Stadt": "Kairo"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"7 vs Wild-Teilnehmer",
+                    "Antworten":[
+                        {
+                            "Name":"Fritz Meinecke"
+                        },
+                        {
+                            "Name":"Martin Rudloff/Survival Mattin"
+                        },
+                        {
+                            "Name":"David Henrichs/Dave"
+                        },
+                        {
+                            "Name":"Niklas Röder/Niklas on fire"
+                        },
+                        {
+                            "Name":"Pascal Bommert/Bommel"
+                        },
+                        {
+                            "Name":"Fabio Schäfer"
+                        },
+                        {
+                            "Name":"Christian Nosty"
+                        },
+                        {
+                            "Name":"Otto Karasch/Otto Bulletproof"
+                        },
+                        {
+                            "Name":"Joris Rudy"
+                        },
+                        {
+                            "Name":"Antonia/Starletnova"
+                        },
+                        {
+                            "Name":"Sabrina Camlott/Sabrina Outdoor"
+                        },
+                        {
+                            "Name":"Sascha Huber"
+                        },
+                        {
+                            "Name":"Jens Knossalla/Knossi"
+                        },
+                        {
+                            "Name":"Gerrit Rösel"
+                        },
+                        {
+                            "Name":"Andreas Schulze"
+                        },
+                        {
+                            "Name":"Joey Kelly"
+                        },
+                        {
+                            "Name":"Jan Lange/Jan Schlappen"
+                        },
+                        {
+                            "Name":"Maximilian Stemmler/Trymacs"
+                        },
+                        {
+                            "Name":"Wieland Welte/Rumathra"
+                        },
+                        {
+                            "Name":"Kevin Teller/Papaplatte"
+                        },
+                        {
+                            "Name":"Dominik Reezmann/Reeze"
+                        },
+                        {
+                            "Name":"Ann-Kathrin Bendixen/Affe"
+                        },
+                        {
+                            "Name":"Hannah Assil"
+                        },
+                        {
+                            "Name":"Stefan Hinkelmann/Survival Deutschland"
+                        },
+                        {
+                            "Name":"Hugo Goedert/LetsHugo"
+                        },
+                        {
+                            "Name":"Sandra Safiulov/Selfiesandra"
+                        },
+                        {
+                            "Name":"Johannes Vogel/Joe Vogel"
+                        },
+                        {
+                            "Name":"Julia Willecke/Julia Beautx"
+                        },
+                        {
+                            "Name":"Uwe Schüder/Flying Uwe"
+                        },
+                        {
+                            "Name":"David Leichtle"
+                        },
+                        {
+                            "Name":"Kris Grippo"
+                        },
+                        {
+                            "Name":"Lucas Michels/Avive"
+                        },
+                        {
+                            "Name":"Jeannine Michaelsen"
+                        },
+                        {
+                            "Name":"Imke Salander"
+                        },
+                        {
+                            "Name":"Fibi Pfeifer"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Disziplinen Zehnkampf (Männer)",
+                    "Antworten":[
+                        {
+                            "Disziplin": "100m-Lauf"
+                        },
+                        {
+                            "Disziplin": "Weitsprung"
+                        },
+                        {
+                            "Disziplin": "Kugelstoßen"
+                        },
+                        {
+                            "Disziplin": "Hochsprung"
+                        },
+                        {
+                            "Disziplin": "400m Lauf"
+                        },
+                        {
+                            "Disziplin": "110m Hürden"
+                        },
+                        {
+                            "Disziplin": "Diskurswurf"
+                        },
+                        {
+                            "Disziplin": "Stabhochsprung"
+                        },
+                        {
+                            "Disziplin": "Speerwurf"
+                        },
+                        {
+                            "Disziplin": "1500m Lauf"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Filme über 1 Milliarde Dollar Einspielergebnis",
+                    "Antworten":[
+                        {
+                            "Film": "Avatar - Aufbruch nach Pandora"
+                        },
+                        {
+                            "Film": "Avengers: Endgame"
+                        },
+                        {
+                            "Film": "Avatar: The Way of Water"
+                        },
+                        {
+                            "Film": "Titanic"
+                        },
+                        {
+                            "Film": "Star Wars: Das Erwachen der Macht"
+                        },
+                        {
+                            "Film": "Avengers: Infinity War"
+                        },
+                        {
+                            "Film": "Spider-Man: No Way Home"
+                        },
+                        {
+                            "Film": "Ne Zha 2"
+                        },
+                        {
+                            "Film": "Alles steht Kopf 2"
+                        },
+                        {
+                            "Film": "Jurassic World"
+                        },
+                        {
+                            "Film": "Der König der Löwen"
+                        },
+                        {
+                            "Film": "Marvel's The Avengers"
+                        },
+                        {
+                            "Film": "Fast & Furious 7"
+                        },
+                        {
+                            "Film": "Top Gun: Maverick"
+                        },
+                        {
+                            "Film": "Die Eiskönigin II"
+                        },
+                        {
+                            "Film": "Barbie"
+                        },
+                        {
+                            "Film": "Avengers: Age of Ultron"
+                        },
+                        {
+                            "Film": "Die Eiskönigin - Völlig unverfroren"
+                        },
+                        {
+                            "Film": "Black Panther"
+                        },
+                        {
+                            "Film": "Der Super Mario Bros. Film"
+                        },
+                        {
+                            "Film": "Harry Potter und die Heiligtümer des Todes - Teil 2"
+                        },
+                        {
+                            "Film": "Deadpool & Wolverine"
+                        },
+                        {
+                            "Film": "Star Wars: Die letzten Jedi"
+                        },
+                        {
+                            "Film": "Jurassic World: Das gefallene Königreich"
+                        },
+                        {
+                            "Film": "Die Schöne und das Biest"
+                        },
+                        {
+                            "Film": "Die Unglaublichen 2"
+                        },
+                        {
+                            "Film": "Fast & Furious 8"
+                        },
+                        {
+                            "Film": "Iron Man 3"
+                        },
+                        {
+                            "Film": "Minions"
+                        },
+                        {
+                            "Film": "The First Avenger: Civil War"
+                        },
+                        {
+                            "Film": "Aquaman"
+                        },
+                        {
+                            "Film": "Der Herr der Ringe: Die Rückkehr des Königs"
+                        },
+                        {
+                            "Film": "Spider-Man: Far From Home"
+                        },
+                        {
+                            "Film": "Captain Marvel"
+                        },
+                        {
+                            "Film": "Transformers 3"
+                        },
+                        {
+                            "Film": "James Bond 007: Skyfall"
+                        },
+                        {
+                            "Film": "Transformers: Ära des Untergangs"
+                        },
+                        {
+                            "Film": "Jurassic Park"
+                        },
+                        {
+                            "Film": "The Dark Knight Rises"
+                        },
+                        {
+                            "Film": "Star Wars: Der Aufstieg Skywalkers"
+                        },
+                        {
+                            "Film": "Joker"
+                        },
+                        {
+                            "Film": "A Toy Story: Alles hört auf kein Kommando"
+                        },
+                        {
+                            "Film": "Toy Story 3"
+                        },
+                        {
+                            "Film": "Pirates of the Caribbean - Fluch der Karibik 2"
+                        },
+                        {
+                            "Film": "Vaiana 2"
+                        },
+                        {
+                            "Film": "Rogue One: A Star Wars Story"
+                        },
+                        {
+                            "Film": "Aladdin"
+                        },
+                        {
+                            "Film": "Pirates of the Caribbean - Fremde Gezeiten"
+                        },
+                        {
+                            "Film": "Lilo & Stitch"
+                        },
+                        {
+                            "Film": "Ich - Einfach unverbesserlich 3"
+                        },
+                        {
+                            "Film": "Findet Dorie"
+                        },
+                        {
+                            "Film": "Star Wars: Episode I - Die dunkle Bedrohung"
+                        },
+                        {
+                            "Film": "Zoomania"
+                        },
+                        {
+                            "Film": "Alice im Wunderland"
+                        },
+                        {
+                            "Film": "Harry Potter und der Stein der Weisen"
+                        },
+                        {
+                            "Film": "Der Hobbit: Eine unerwartete Reise"
+                        },
+                        {
+                            "Film": "The Dark Knight"
+                        },
+                        {
+                            "Film": "Jurassic World: Ein neues Zeitalter"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Flagge mit Sonnen",
+                    "Antworten":[
+                        {
+                            "Land":"Antigua und Barbuda"
+                        },
+                        {
+                            "Land":"Argentinien"
+                        },
+                        {
+                            "Land":"Kasachstan"
+                        },
+                        {
+                            "Land":"Kirgisistan"
+                        },
+                        {
+                            "Land":"Kiribati"
+                        },
+                        {
+                            "Land":"Malawi"
+                        },
+                        {
+                            "Land":"Malaysia"
+                        },
+                        {
+                            "Land":"Marshallinseln"
+                        },
+                        {
+                            "Land":"Namibia"
+                        },
+                        {
+                            "Land":"Nauru"
+                        },
+                        {
+                            "Land":"Nepal"
+                        },
+                        {
+                            "Land":"Nordmazedonien"
+                        },
+                        {
+                            "Land":"Philippinen"
+                        },
+                        {
+                            "Land":"Ruanda"
+                        },
+                        {
+                            "Land":"Taiwan"
+                        },
+                        {
+                            "Land":"Uruguay"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Lieder die über 3 Mrd mal bei Spotify gestreamt wurden (Stand Dezember 2025)",
+                    "Antworten":[
+                        {
+                            "Song":"The Weeknd - Blinding Lights"
+                        },
+                        {
+                            "Song":"Ed Sheeran - Shape Of You"
+                        },
+                        {
+                            "Song":"Lewis Capaldi - Someone You Loved"
+                        },
+                        {
+                            "Song":"The Weeknd feat. Daft Punk - Starboy"
+                        },
+                        {
+                            "Song":"Harry Styles - As It Was"
+                        },
+                        {
+                            "Song":"Post Malone feat. Swae Lee - Sunflower"
+                        },
+                        {
+                            "Song":"The Neighbourhood - Sweater Weather"
+                        },
+                        {
+                            "Song":"Drake feat. Wizkid & Kyla - One Dance"
+                        },
+                        {
+                            "Song":"The Kid Laroi feat. Justin Bieber - Stay"
+                        },
+                        {
+                            "Song":"Ed Sheeran - Perfect"
+                        },
+                        {
+                            "Song":"Imagine Dragons- Believer"
+                        },
+                        {
+                            "Song":"Glass Animals - Heat Waves"
+                        },
+                        {
+                            "Song":"Billie Eilish feat. Khalid - Lovely"
+                        },
+                        {
+                            "Song":"The Chainsmokers feat. Halsey - Closer"
+                        },
+                        {
+                            "Song":"Tones and I - Dance Monkey"
+                        },
+                        {
+                            "Song":"James Arthur - Say You Won't Let Go"
+                        },
+                        {
+                            "Song":"Post Malone feat. 21 Savage - Rockstar"
+                        },
+                        {
+                            "Song":"The Chainsmokers feat. Coldplay - Something Just Like This"
+                        },
+                        {
+                            "Song":"Vance Joy - Riptide"
+                        },
+                        {
+                            "Song":"Arctic Monkeys - I Wanna Be Yours"
+                        },
+                        {
+                            "Song":"Hozier - Take Me to Church"
+                        },
+                        {
+                            "Song":"Tom Odell - Another Love"
+                        },
+                        {
+                            "Song":"Coldplay - Yellows"
+                        },
+                        {
+                            "Song":"Harry Styles - Watermelon Sugar"
+                        },
+                        {
+                            "Song":"Shawn Mendes & Camila Cabello - Señorita"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Ballsportarten bei Olympia 2024",
+                    "Antworten":[
+                        {
+                            "Sportart":"Badminton"
+                        },
+                        {
+                            "Sportart":"Basketball"
+                        },
+                        {
+                            "Sportart":"Beachvolleyball"
+                        },
+                        {
+                            "Sportart":"Fußball"
+                        },
+                        {
+                            "Sportart":"Golf"
+                        },
+                        {
+                            "Sportart":"Handball"
+                        },
+                        {
+                            "Sportart":"Hockey"
+                        },
+                        {
+                            "Sportart":"Tennis"
+                        },
+                        {
+                            "Sportart":"Tischtennis"
+                        },
+                        {
+                            "Sportart":"Volleyball"
+                        },
+                        {
+                            "Sportart":"Wasserball"
+                        }
+                    ]
+                }
+            },
+            {
+                "Sammlung":{
+                    "Kategorie":"Städte in Deutschland mit Straßenbahnnetzen über 10 km",
+                    "Antworten":[
+                        {
+                            "Stadt":"Augsburg"
+                        },
+                        {
+                            "Stadt":"Berlin"
+                        },
+                        {
+                            "Stadt":"Bielefeld"
+                        },
+                        {
+                            "Stadt":"Bochum"
+                        },
+                        {
+                            "Stadt":"Bonn"
+                        },
+                        {
+                            "Stadt":"Brandenburg an der Havel"
+                        },
+                        {
+                            "Stadt":"Braunschweig"
+                        },
+                        {
+                            "Stadt":"Bremen"
+                        },
+                        {
+                            "Stadt":"Chemnitz"
+                        },
+                        {
+                            "Stadt":"Cottbus"
+                        },
+                        {
+                            "Stadt":"Darmstadt"
+                        },
+                        {
+                            "Stadt":"Dessau"
+                        },
+                        {
+                            "Stadt":"Dortmund"
+                        },
+                        {
+                            "Stadt":"Dresden"
+                        },
+                        {
+                            "Stadt":"Duisburg"
+                        },
+                        {
+                            "Stadt":"Düsseldorf"
+                        },
+                        {
+                            "Stadt":"Erfurt"
+                        },
+                        {
+                            "Stadt":"Essen"
+                        },
+                        {
+                            "Stadt":"Frankfurt am Main"
+                        },
+                        {
+                            "Stadt":"Frankfurt an der Oder"
+                        },
+                        {
+                            "Stadt":"Freiburg"
+                        },
+                        {
+                            "Stadt":"Gelsenkirchen"
+                        },
+                        {
+                            "Stadt":"Gera"
+                        },
+                        {
+                            "Stadt":"Görlitz"
+                        },
+                        {
+                            "Stadt":"Gotha"
+                        },
+                        {
+                            "Stadt":"Halberstadt"
+                        },
+                        {
+                            "Stadt":"Halle an der Saale"
+                        },
+                        {
+                            "Stadt":"Hannover"
+                        },
+                        {
+                            "Stadt":"Heidelberg"
+                        },
+                        {
+                            "Stadt":"Jena"
+                        },
+                        {
+                            "Stadt":"Karlsruhe"
+                        },
+                        {
+                            "Stadt":"Kassel"
+                        },
+                        {
+                            "Stadt":"Köln"
+                        },
+                        {
+                            "Stadt":"Leipzig"
+                        },
+                        {
+                            "Stadt":"Ludwigshafen"
+                        },
+                        {
+                            "Stadt":"Magdeburg"
+                        },
+                        {
+                            "Stadt":"Mainz"
+                        },
+                        {
+                            "Stadt":"Mannheim"
+                        },
+                        {
+                            "Stadt":"Mühlheim an der Ruhr"
+                        },
+                        {
+                            "Stadt":"München"
+                        },
+                        {
+                            "Stadt":"Nürnberg"
+                        },
+                        {
+                            "Stadt":"Oberhausen"
+                        },
+                        {
+                            "Stadt":"Plauen"
+                        },
+                        {
+                            "Stadt":"Potsdam"
+                        },
+                        {
+                            "Stadt":"Rostock"
+                        },
+                        {
+                            "Stadt":"Saarbrücken"
+                        },
+                        {
+                            "Stadt":"Schwerin"
+                        },
+                        {
+                            "Stadt":"Stuttgart"
+                        },
+                        {
+                            "Stadt":"Ulm"
+                        },
+                        {
+                            "Stadt":"Würzburg"
+                        },
+                        {
+                            "Stadt":"Zwickau"
+                        }
+                    ]
+                }
+            }
+        ],
+        "Brettspiele": [
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/01_Spiel des Lebens.jpg",
+                    "Spielname": "Spiel des Lebens"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/02_Scotland Yard.jpg",
+                    "Spielname": "Scotland Yard"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/03_mensch-aergere-dich-nicht-farbig.png",
+                    "Spielname": "Mensch ärgere dich nicht"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/04_Siedler von Catan.jpg",
+                    "Spielname": "Siedler von Catan"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/05_Scrabble.jpg",
+                    "Spielname": "Scrabble"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/06_Schach.jpg",
+                    "Spielname": "Schach"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/07_Leiterspiel.jpg",
+                    "Spielname": "Leiterspiel"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/08_Halma.jpg",
+                    "Spielname": "Halma"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/09_Fang den Hut.jpg",
+                    "Spielname": "Fang den Hut"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/10_Schiffe versenken.jpg",
+                    "Spielname": "Schiffe versenken"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/11_Carcassonne.jpg",
+                    "Spielname": "Carcassonne"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/12_Malefiz.jpg",
+                    "Spielname": "Malefiz"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/13_Cluedo.jpg",
+                    "Spielname": "Cluedo"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/14_Backgammon.jpg",
+                    "Spielname": "Backgammon"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/15_Trivial Pursuit.jpg",
+                    "Spielname": "Trivial Pursuit"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/16_Risiko.jpg",
+                    "Spielname": "Risiko"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/17_zug-um-zug.jpeg",
+                    "Spielname": "Zug um Zug"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/18_Dame.jpg",
+                    "Spielname": "Dame"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/19_Der Palast von Alhambra.jpg",
+                    "Spielname": "Der Palast von Alhambra"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/20_Ubongo.jpg",
+                    "Spielname": "Ubongo"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/21_Weltreise.jpg",
+                    "Spielname": "Weltreise"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/22_Monopoly.jpg",
+                    "Spielname": "Monopoly"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/23_Azul.jpg",
+                    "Spielname": "Azul"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/24_Carrom.png",
+                    "Spielname": "Carrom"
+                }
+            },
+            {
+                "Spielbrett":{
+                    "Bildpfad": "Spiel15/25_Muehle.png",
+                    "Spielname": "Mühle"
+                }
+            }
+        ]
+    }
+}
